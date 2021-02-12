@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jade.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/commons-codec-1.3.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx-swt.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.web.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.base.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.fxml.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.media.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.swing.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.controls.jar" />
+    <archive path="/home/alice/IdeaProjects/bouquinsFX/lib/jfx/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+
