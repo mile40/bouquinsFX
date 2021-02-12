@@ -29,7 +29,10 @@ public class AcheteurContainer extends Application {
     private AcheteurAgent acheteurAgent;
     private ObservableList<String> observableList;
     public static void main(String[] args){
+    	
+    	System.out.println(args[0]);
         launch(AcheteurContainer.class);
+        
     }
 
     public void startContainer(){
